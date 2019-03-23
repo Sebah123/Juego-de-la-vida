@@ -1,0 +1,20 @@
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.exe.config
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.exe
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.pdb
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csprojAssemblyReference.cache
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.Form1.resources
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.Properties.Resources.resources
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csproj.GenerateResource.cache
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csproj.CoreCompileInputs.cache
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.exe
+C:\Users\XIMENA\Desktop\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.pdb
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.Form1.resources
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.Properties.Resources.resources
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csproj.GenerateResource.cache
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csproj.CoreCompileInputs.cache
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.exe
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.pdb
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.exe.config
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.exe
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\bin\Debug\JuegodeVida.pdb
+C:\Users\XIMENA\Desktop\Archivos Seba\Juego de vida\JuegodeVida\JuegodeVida\obj\Debug\JuegodeVida.csprojAssemblyReference.cache
